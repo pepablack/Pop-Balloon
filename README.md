@@ -1,4 +1,4 @@
-Pop-Ballon
+Pop-Balloon
 ==========
 
-Pop Ballon game using AndEngine
+Pop Balloon game using AndEngine
